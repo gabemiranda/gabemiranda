@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Gabriel Miranda</h1>
+<h1 align="center">Oi 👋, sou Gabriel Miranda</h1>
 <h3 align="center">Futuro garotinho de programa</h3>
 
-- 🔭 I’m currently working on **byDoctor**
+- 🔭 Atualmente desenvolvendo o **byDoctor**
 
-- 📫 How to reach me **miranda.gabriel@aol.com**
+- 📫 Entre em contato comigo pelo **miranda.gabriel@aol.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabrielfmiranda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabrielfmiranda" height="30" width="40" /></a>
 <a href="https://fb.com/ogabrielfernands" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ogabrielfernands" height="30" width="40" /></a>
