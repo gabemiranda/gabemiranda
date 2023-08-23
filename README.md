@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, sou Gabriel Miranda</h1>
 <h3 align="center">Futuro garotinho de programa</h3>
 
-- 🔭 Atualmente desenvolvendo o **byDoctor**
+- 🔭 Atualmente desenvolvendo o **Dokzy.app**
 
 - 📫 Entre em contato comigo pelo **miranda.gabriel@aol.com**
 
